@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5fGGWPtMF4A=",
+  "success": true,
+  "projectFilePath": "/Users/brunomonteiro/Projects/DatingApp/API/API.csproj",
+  "expectedPackageFiles": [
+    "/Users/brunomonteiro/.nuget/packages/microsoft.aspnetcore.openapi/9.0.3/microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "/Users/brunomonteiro/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
