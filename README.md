@@ -1,46 +1,56 @@
-usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
-           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
-           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--no-lazy-fetch]
-           [--no-optional-locks] [--no-advice] [--bare] [--git-dir=<path>]
-           [--work-tree=<path>] [--namespace=<name>] [--config-env=<name>=<envvar>]
-           <command> [<args>]
+Project Title
 
-These are common Git commands used in various situations:
+Simple overview of use/purpose.
+Description
 
-start a working area (see also: git help tutorial)
-   clone      Clone a repository into a new directory
-   init       Create an empty Git repository or reinitialize an existing one
+An in-depth paragraph about your project and overview of use.
+Getting Started
+Dependencies
 
-work on the current change (see also: git help everyday)
-   add        Add file contents to the index
-   mv         Move or rename a file, a directory, or a symlink
-   restore    Restore working tree files
-   rm         Remove files from the working tree and from the index
+    Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+    ex. Windows 10
 
-examine the history and state (see also: git help revisions)
-   bisect     Use binary search to find the commit that introduced a bug
-   diff       Show changes between commits, commit and working tree, etc
-   grep       Print lines matching a pattern
-   log        Show commit logs
-   show       Show various types of objects
-   status     Show the working tree status
+Installing
 
-grow, mark and tweak your common history
-   backfill   Download missing objects in a partial clone
-   branch     List, create, or delete branches
-   commit     Record changes to the repository
-   merge      Join two or more development histories together
-   rebase     Reapply commits on top of another base tip
-   reset      Reset current HEAD to the specified state
-   switch     Switch branches
-   tag        Create, list, delete or verify a tag object signed with GPG
+    How/where to download your program
+    Any modifications needed to be made to files/folders
 
-collaborate (see also: git help workflows)
-   fetch      Download objects and refs from another repository
-   pull       Fetch from and integrate with another repository or a local branch
-   push       Update remote refs along with associated objects
+Executing program
 
-'git help -a' and 'git help -g' list available subcommands and some
-concept guides. See 'git help <command>' or 'git help <concept>'
-to read about a specific subcommand or concept.
-See 'git help git' for an overview of the system.
+    How to run the program
+    Step-by-step bullets
+
+code blocks for commands
+
+Help
+
+Any advise for common problems or issues.
+
+command to run if program contains helper info
+
+Authors
+
+Contributors names and contact info
+
+ex. Dominique Pizzie
+ex. @DomPizzie
+Version History
+
+    0.2
+        Various bug fixes and optimizations
+        See commit change or See release history
+    0.1
+        Initial Release
+
+License
+
+This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+Acknowledgments
+
+Inspiration, code snippets, etc.
+
+    awesome-readme
+    PurpleBooth
+    dbader
+    zenorocha
+    fvcproductions
