@@ -10,7 +10,7 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 
-export class AppComponent implements OnInit {
+export class AppComponent implements OnInit {  
   http = inject(HttpClient);
   title = 'DatingApp';
   users: any;
@@ -20,6 +20,6 @@ export class AppComponent implements OnInit {
       next: response => this.users = response,
       error: error => console.log(error),
       complete: () => console.log('Request has completed')
-    })    
-  }
+    })
+  }  
 }
